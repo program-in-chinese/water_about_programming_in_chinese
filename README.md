@@ -25,8 +25,10 @@
 - [ 揭秘 | 为什么中文不能用来编程呢？ ](https://www.sohu.com/a/207727131_100015376)
 
 ### 2016
-- [用中文编程能给我们带来什么？](http://www.techug.com/post/what-if-we-programming-with-chinese.html)
-- [ 你见过中文编程的代码吗？台湾人这段中文代码真是逆天了！ ](https://yq.aliyun.com/articles/66621)
+| 网文链接 | 出处 |
+| ------------- | ------------- |
+| [用中文编程能给我们带来什么？](http://www.techug.com/post/what-if-we-programming-with-chinese.html) | [汉语编程能给我们带来什么？](https://blog.csdn.net/exiaoyin/article/details/52894434)
+| [ 你见过中文编程的代码吗？台湾人这段中文代码真是逆天了！ ](https://yq.aliyun.com/articles/66621)
 
 ### 2013
 - [ 中国的中文编程是伪科学？ ](http://www.admin10000.com/document/1486.html)
