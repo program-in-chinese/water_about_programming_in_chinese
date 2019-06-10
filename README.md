@@ -12,6 +12,7 @@
 ### 2019
 | 网文链接 | 出处 |
 | ------------- | ------------- |
+| [编程语言中，还有一种语言，那就是用中文来编程，哈哈哈厉害吧](https://www.toutiao.com/a6700748018074780174/) | [编程为什么不用中文？未来用中文编程可能么？](https://www.toutiao.com/a6680298820351296014/)
 | [为什么编程不用中文？看一下中文编码让人更忧伤了！](https://cloud.tencent.com/developer/news/394265) [转1](https://www.weibo.com/ttarticle/p/show?id=2309404338920430157053) [转2](https://kuaibao.qq.com/s/MEDIANEWSLIST?chlid=16412565) [转3](http://mini.eastday.com/a/190212171155288.html) | [2017 揭秘 \| 为什么中文不能用来编程呢？ ](https://www.sohu.com/a/207727131_100015376) |
 
 ### 2018
