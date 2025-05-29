@@ -5,7 +5,7 @@
 - [最近一波对中文编程(包括中文命名)的攻势](https://zhuanlan.zhihu.com/p/40099718)
 - [又见套路:如果计算机是用中文编程,你能成为计算机编程专家吗？](https://zhuanlan.zhihu.com/p/40611223)
 
-下面收集针对中文编程的网文, 十数年基本是在新瓶装旧酒. 最近的水分越来越大, 也许是由于国内业界已经更多看到了中文编程语言与在代码中进行中文命名的意义.
+下面收集针对中文编程的网文，二十多年基本是在新瓶装旧酒。最近的水分越来越大，也许是由于国内业界已经更多看到了中文编程语言与在代码中进行中文命名的意义。
 
 ***欢迎各位补充***
 ### 头条回怼
@@ -49,7 +49,7 @@
 - [汉语编程：程序员你们等不到了](http://developer.51cto.com/art/201107/274090.htm)
 
 ### 2007
-- [汉语编程，在汉芯事件之后中国软件界最大的骗局](http://bbs.tianya.cn/post-free-1031084-1.shtml) [存档](https://web.archive.org/web/20140118220011/https://bbs.tianya.cn/post-free-1031084-1.shtml)
+- [汉语编程，在汉芯事件之后中国软件界最大的骗局](http://bbs.tianya.cn/post-free-1031084-1.shtml)（[存档](https://web.archive.org/web/20140118220011/https://bbs.tianya.cn/post-free-1031084-1.shtml)）
 - [也谈“汉语编程”](https://blog.csdn.net/fuxi_man/article/details/1879013) [转1](http://www.voidcn.com/article/p-dbtubhnm-bht.html)
 
 ### 2003
